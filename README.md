@@ -1,6 +1,6 @@
 # ChatGPT Library Native Select All Images UserScript
 
-Adds a **Select all** button to the ChatGPT image Library.
+Adds a **Select all** button to the ChatGPT image Library. Much easier and quicker than how they want you to do it (click/drag/highlight).
 
 The script uses ChatGPT's own image selection controls. It does not make its own selection system.
 
